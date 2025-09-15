@@ -88,5 +88,7 @@
 <div align="center">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heejung72&layout=compact)
+![GitHub Contributions](https://ghchart.rshah.org/heejung72)
+
 
 </div>
