@@ -3,12 +3,12 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi,%20I'm%20heejung&fontSize=90" />
 </div>
 
+<!--
 <p align="center">Frontend Developer</p>
 <p align="center">Currently studying Backend & Cloud ☁️</p>
 
 <br>
 
-<!-- Tech Stack -->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
@@ -28,7 +28,6 @@
 
 <br>
 
-<!-- Studying -->
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
    <img src="https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />&nbsp
@@ -39,7 +38,6 @@
 
 <br>
 
-<!-- Tools -->
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
@@ -51,7 +49,6 @@
 
 <br>
 
-<!-- Contact -->
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://velog.io/@_030702">
@@ -63,14 +60,14 @@
 </div>
 
 <br>
-
-<!-- Top languages card -->
-<div align="center">
   
+<div align="center">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heejung72&layout=compact)
 <br>
 <br>
 ![GitHub Contributions](https://ghchart.rshah.org/heejung72)
 
-
 </div>
+
+-->
